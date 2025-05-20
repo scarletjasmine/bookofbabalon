@@ -8602,67 +8602,9 @@ input, select, textarea {
 				box-shadow: none !important;
 			}
 
-
-
 .scarlet {
-	color: #FF2400;
-}
-.purple {
-	color: #800080;
-}
-.babyblue {
-	color: #89CFF0;
+	color: #b51a00 !important;
 }
 .bold {
-	font-weight: bold;
+	font-weight:bold;
 }
-.italic {
-	font-style: italic;
-}
-.big {
-	font-size: 1.5em;
-}
-
-
-
-.nosifer-regular {
-	font-family: "Nosifer", sans-serif;
-	font-weight: 400;
-	font-style: normal;
-}
-
-#feedback-button {
-	position: fixed;
-	top: 50%;
-	right: 0%;
-	width: 165px;
-	height: 0px;
-	text-align:right;
-	z-index:9999;
-		margin-top:-15px;
-}
-
-#feedback-button a{
-								transform: rotate(-90deg);
-				-webkit-transform: rotate(-90deg); 
-				-moz-transform: rotate(-90deg); 
-				-o-transform: rotate(-90deg); 
-				filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
-								display: block; 
-								background: #ff3a2f; 
-							 text-align:center;
-								height: 30px; 
-								width: 300px;
-								padding: auto;
-								color: #fff; 
-								font-family: Arial, sans-serif; 
-								font-size: 17px; 
-								font-weight: bold; 
-								text-decoration: none; 
-								border-bottom: solid 1px #333; border-left: solid 1px #333; border-right: solid 1px #fff;
-
-}
-
-#feedback-button a:hover { 
-				background: #CCC; 
-			}

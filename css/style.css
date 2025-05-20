@@ -367,3 +367,10 @@ li{
   font-weight: 400;
   font-style: normal;
 }
+
+.scarlet {
+  color: #b51a00 !important;
+}
+.bold {
+  font-weight:bold;
+}
